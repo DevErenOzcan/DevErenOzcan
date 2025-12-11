@@ -1,12 +1,12 @@
 <div align="center">
-  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Eren%20Özcan&fontSize=70&fontColor=ffffff&desc=DevOps%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlign=50&descAlignY=80" alt="Eren Özcan Header" width="100%"/>
-
-  [![Portfolio](https://img.shields.io/badge/Portfolio-deverenozcan.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://deverenozcan.github.io/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eren%20Özcan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-eren-ozcan/)
-
-  <br />
-
+  <br/>
+  <a href="https://deverenozcan.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-deverenozcan.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dev-eren-ozcan/">
+    <img src="https://img.shields.io/badge/LinkedIn-Eren%20Özcan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </div>
 
 ---
@@ -15,7 +15,7 @@
 
 <div align="center">
 
-  <h3>☁️ DevOps & Infrastructure</h3>
+  <b>☁️ DevOps & Infrastructure</b><br/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
@@ -23,9 +23,9 @@
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-  <br/> <br/>
+  <br/> 
 
-  <h3>💻 Languages & Frameworks</h3>
+  <b>💻 Languages & Frameworks</b><br/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -33,9 +33,9 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 
-  <br/> <br/>
+  <br/>
 
-  <h3>🤖 Artificial Intelligence</h3>
+  <b>🤖 Artificial Intelligence</b><br/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/WhisperX-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Pyannote-000000?style=for-the-badge&logo=soundcharts&logoColor=white" />
@@ -70,10 +70,9 @@
 
 ---
 
-### 🔭 Featured Projects
-
-| Project Name | Description | Technology |
-| :--- | :--- | :--- |
-| **Atlas 2.0** | Scalable Microservices architecture for E-commerce. | `Go` `gRPC` `Microservices` |
-| **Todolist FullStack** | Todo application running on Kubernetes with CI/CD processes. | `K8s` `DevOps` `Go` `React` |
-| **Voice Diarization** | Speaker diarization and analysis service for audio recordings. | `Python` `WhisperX` `Pyannote` |
+<div align="center">
+  <br/>
+  <h2>👇 Check out my featured repositories below 👇</h2>
+  <br/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdiNGQ1ODQ2ZGM2ZGM4ZGM4ZGM4ZGM4ZGM4ZGM4ZGM4ZGM4ZGM4ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/3o7TKr3nzbh5JEBrj2/giphy.gif" width="30">
+</div>
