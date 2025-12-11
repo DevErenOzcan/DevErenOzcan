@@ -74,5 +74,4 @@
   <br/>
   <h2>👇 Check out my featured repositories below 👇</h2>
   <br/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdiNGQ1ODQ2ZGM2ZGM4ZGM4ZGM4ZGM4ZGM4ZGM4ZGM4ZGM4ZGM4ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/3o7TKr3nzbh5JEBrj2/giphy.gif" width="30">
 </div>
